@@ -1,0 +1,4 @@
+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
+
+source venv/bin/activate --- reactivate the virtual environment before running the API again
+pip freeze > requirements.txt -- add the dependency install to requirements file
